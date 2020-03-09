@@ -1,0 +1,14 @@
+{
+
+  "Facebook":{
+    "FB_TOKEN": "GraphAPI token"
+  },
+  "Email": {
+    "EMAIL": "The sender email",
+    "PASSWORD": "password of sender email"
+  },
+  "Comments": {
+    "__facebook": "FB Token generated in this page: https://developers.facebook.com/tools/explorer/",
+  }
+
+}
